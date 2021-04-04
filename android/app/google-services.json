@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882287239051",
+    "project_id": "macro-shop-e18d9",
+    "storage_bucket": "macro-shop-e18d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882287239051:android:978fe848e280fcbcb0998e",
+        "android_client_info": {
+          "package_name": "com.example.macro_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882287239051-u01ach0lgo1usq9tr1oragbp3rdnck4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xMHtwj6Euap-LhNFcGyyozrlhLOcK9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882287239051-u01ach0lgo1usq9tr1oragbp3rdnck4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
